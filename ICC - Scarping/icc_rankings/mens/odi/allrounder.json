@@ -1,0 +1,702 @@
+[
+    {
+        "Position": 1,
+        "Player": "Azmatullah Omarzai",
+        "Team": "Afg",
+        "Rating": "334",
+        "Career Best": "334 V BANGLADESH AT ABU DHABI 2025"
+    },
+    {
+        "Position": 2,
+        "Player": "Sikandar Raza",
+        "Team": "Zimbabwe",
+        "Rating": "302",
+        "Career Best": "302 V SRI LANKA AT HARARE 2025"
+    },
+    {
+        "Position": 3,
+        "Player": "Mohammad Nabi",
+        "Team": "Afghanistan",
+        "Rating": "285",
+        "Career Best": "350 V IRELAND AT GREATER NOIDA 2017"
+    },
+    {
+        "Position": 4,
+        "Player": "Mehidy Hasan Miraz",
+        "Team": "Bangladesh",
+        "Rating": "273",
+        "Career Best": "295 V INDIA AT MIRPUR 2022"
+    },
+    {
+        "Position": 5,
+        "Player": "Rashid Khan",
+        "Team": "Afghanistan",
+        "Rating": "257",
+        "Career Best": "352 V PAKISTAN AT ABU DHABI 2018"
+    },
+    {
+        "Position": 6,
+        "Player": "Mitchell Santner",
+        "Team": "New Zealand",
+        "Rating": "255",
+        "Career Best": "309 V ENGLAND AT CHRISTCHURCH 2018"
+    },
+    {
+        "Position": 7,
+        "Player": "Michael Bracewell",
+        "Team": "New Zealand",
+        "Rating": "239",
+        "Career Best": "250 V ENGLAND AT BAY OVAL 2025"
+    },
+    {
+        "Position": 8,
+        "Player": "Wanindu Hasaranga",
+        "Team": "Sri Lanka",
+        "Rating": "234",
+        "Career Best": "252 V OMAN AT BULAWAYO 2023"
+    },
+    {
+        "Position": 9,
+        "Player": "Brandon Mcmullen",
+        "Team": "Scotland",
+        "Rating": "228",
+        "Career Best": "247 V NETHERLANDS AT SCOTLAND 2025"
+    },
+    {
+        "Position": 10,
+        "Player": "Axar Patel",
+        "Team": "India",
+        "Rating": "215",
+        "Career Best": "229 V AUSTRALIA AT SYDNEY 2025"
+    },
+    {
+        "Position": 11,
+        "Player": "Ravindra Jadeja",
+        "Team": "India",
+        "Rating": "206",
+        "Career Best": "372 V ZIMBABWE AT BULAWAYO 2013"
+    },
+    {
+        "Position": 12,
+        "Player": "Gerhard Erasmus",
+        "Team": "Namibia",
+        "Rating": "204",
+        "Career Best": "232 V SCOTLAND AT SCOTLAND 2024"
+    },
+    {
+        "Position": 13,
+        "Player": "Josh Hazlewood",
+        "Team": "Australia",
+        "Rating": "197",
+        "Career Best": "235 V SOUTH AFRICA AT KOLKATA 2023"
+    },
+    {
+        "Position": 14,
+        "Player": "Salman Agha",
+        "Team": "Pakistan",
+        "Rating": "196",
+        "Career Best": "212 V SRI LANKA AT RAWALPINDI 2025"
+    },
+    {
+        "Position": 15,
+        "Player": "Sean Williams",
+        "Team": "Zimbabwe",
+        "Rating": "189",
+        "Career Best": "239 V PAKISTAN AT RAWALPINDI 2020"
+    },
+    {
+        "Position": 16,
+        "Player": "Curtis Campher",
+        "Team": "Ireland",
+        "Rating": "187",
+        "Career Best": "202 V ZIMBABWE AT HARARE 2025"
+    },
+    {
+        "Position": 17,
+        "Player": "Roston Chase",
+        "Team": "West Indies",
+        "Rating": "184",
+        "Career Best": "193 V BANGLADESH AT MIRPUR 2025"
+    },
+    {
+        "Position": 18,
+        "Player": "Gudakesh Motie",
+        "Team": "West Indies",
+        "Rating": "184",
+        "Career Best": "209 V PAKISTAN AT TRINIDAD 2025"
+    },
+    {
+        "Position": 19,
+        "Player": "Rachin Ravindra",
+        "Team": "New Zealand",
+        "Rating": "183",
+        "Career Best": "230 V INDIA AT DUBAI 2025"
+    },
+    {
+        "Position": 20,
+        "Player": "Charith Asalanka",
+        "Team": "Sri Lanka",
+        "Rating": "180",
+        "Career Best": "184 V PAKISTAN AT RAWALPINDI 2025"
+    },
+    {
+        "Position": 21,
+        "Player": "Marco Jansen",
+        "Team": "South Africa",
+        "Rating": "180",
+        "Career Best": "246 V NEW ZEALAND AT PUNE 2023"
+    },
+    {
+        "Position": 22,
+        "Player": "Adil Rashid",
+        "Team": "England",
+        "Rating": "179",
+        "Career Best": "255 V SRI LANKA AT PALLEKELE 2018"
+    },
+    {
+        "Position": 23,
+        "Player": "Maheesh Theekshana",
+        "Team": "Sri Lanka",
+        "Rating": "175",
+        "Career Best": "189 V AUSTRALIA AT COLOMBO (RPS) 2025"
+    },
+    {
+        "Position": 24,
+        "Player": "Kuldeep Yadav",
+        "Team": "India",
+        "Rating": "172",
+        "Career Best": "245 V NEW ZEALAND AT BAY OVAL 2019"
+    },
+    {
+        "Position": 25,
+        "Player": "Bernard Scholtz",
+        "Team": "Namibia",
+        "Rating": "172",
+        "Career Best": "176 V CANADA AT KING CITY 2025"
+    },
+    {
+        "Position": 26,
+        "Player": "Milind Kumar",
+        "Team": "Usa",
+        "Rating": "171",
+        "Career Best": "171 V UNITED ARAB EMIRATES AT DUBAI 2025"
+    },
+    {
+        "Position": 27,
+        "Player": "Mark Adair",
+        "Team": "Ireland",
+        "Rating": "169",
+        "Career Best": "184 V ZIMBABWE AT HARARE 2023"
+    },
+    {
+        "Position": 28,
+        "Player": "Andy Mcbrine",
+        "Team": "Ireland",
+        "Rating": "165",
+        "Career Best": "219 V NEW ZEALAND AT MALAHIDE 2022"
+    },
+    {
+        "Position": 29,
+        "Player": "Hardik Pandya",
+        "Team": "India",
+        "Rating": "161",
+        "Career Best": "256 V SOUTH AFRICA AT CENTURION 2018"
+    },
+    {
+        "Position": 30,
+        "Player": "Naseem Shah",
+        "Team": "Pakistan",
+        "Rating": "161",
+        "Career Best": "167 V SRI LANKA AT RAWALPINDI 2025"
+    },
+    {
+        "Position": 31,
+        "Player": "Mark Watt",
+        "Team": "Scotland",
+        "Rating": "160",
+        "Career Best": "202 V ZIMBABWE AT BULAWAYO 2023"
+    },
+    {
+        "Position": 32,
+        "Player": "Michael Leask",
+        "Team": "Scotland",
+        "Rating": "159",
+        "Career Best": "209 V NAMIBIA AT KIRTIPUR, NEPAL 2023"
+    },
+    {
+        "Position": 33,
+        "Player": "Shaheen Afridi",
+        "Team": "Pakistan",
+        "Rating": "158",
+        "Career Best": "212 V AUSTRALIA AT PERTH STADIUM 2024"
+    },
+    {
+        "Position": 34,
+        "Player": "Jofra Archer",
+        "Team": "England",
+        "Rating": "157",
+        "Career Best": "157 V NEW ZEALAND AT WELLINGTON 2025"
+    },
+    {
+        "Position": 35,
+        "Player": "Rishad Hossain",
+        "Team": "Bangladesh",
+        "Rating": "154",
+        "Career Best": "154 V WEST INDIES AT MIRPUR 2025"
+    },
+    {
+        "Position": 36,
+        "Player": "Alzarri Joseph",
+        "Team": "West Indies",
+        "Rating": "151",
+        "Career Best": "218 V SOUTH AFRICA AT POTCHEFSTROOM 2023"
+    },
+    {
+        "Position": 37,
+        "Player": "Richard Ngarava",
+        "Team": "Zimbabwe",
+        "Rating": "150",
+        "Career Best": "150 V SRI LANKA AT HARARE 2025"
+    },
+    {
+        "Position": 38,
+        "Player": "Saim Ayub",
+        "Team": "Pakistan",
+        "Rating": "150",
+        "Career Best": "162 V SOUTH AFRICA AT FAISALABAD 2025"
+    },
+    {
+        "Position": 39,
+        "Player": "Sean Abbott",
+        "Team": "Australia",
+        "Rating": "148",
+        "Career Best": "186 V WEST INDIES AT CANBERRA 2024"
+    },
+    {
+        "Position": 40,
+        "Player": "Aiden Markram",
+        "Team": "South Africa",
+        "Rating": "146",
+        "Career Best": "180 V AUSTRALIA AT POTCHEFSTROOM 2023"
+    },
+    {
+        "Position": 41,
+        "Player": "Dipendra Singh Airee",
+        "Team": "Nepal",
+        "Rating": "146",
+        "Career Best": "172 V UNITED ARAB EMIRATES AT HARARE 2023"
+    },
+    {
+        "Position": 42,
+        "Player": "Travis Head",
+        "Team": "Australia",
+        "Rating": "145",
+        "Career Best": "184 V ENGLAND AT EDGBASTON 2017"
+    },
+    {
+        "Position": 43,
+        "Player": "Keshav Maharaj",
+        "Team": "South Africa",
+        "Rating": "143",
+        "Career Best": "174 V AUSTRALIA AT KOLKATA 2023"
+    },
+    {
+        "Position": 44,
+        "Player": "Bas De Leede",
+        "Team": "Netherlands",
+        "Rating": "142",
+        "Career Best": "173 V UNITED ARAB EMIRATES AT OMAN 2024"
+    },
+    {
+        "Position": 45,
+        "Player": "Liam Livingstone",
+        "Team": "England",
+        "Rating": "140",
+        "Career Best": "172 V AFGHANISTAN AT LAHORE 2025"
+    },
+    {
+        "Position": 46,
+        "Player": "Nosthush Kenjige",
+        "Team": "Usa",
+        "Rating": "139",
+        "Career Best": "158 V CANADA AT LAUDERHILL 2025"
+    },
+    {
+        "Position": 47,
+        "Player": "Glenn Phillips",
+        "Team": "New Zealand",
+        "Rating": "138",
+        "Career Best": "165 V INDIA AT DUBAI 2025"
+    },
+    {
+        "Position": 48,
+        "Player": "Lungi Ngidi",
+        "Team": "South Africa",
+        "Rating": "136",
+        "Career Best": "186 V ENGLAND AT MUMBAI 2023"
+    },
+    {
+        "Position": 49,
+        "Player": "Mohammed Siraj",
+        "Team": "India",
+        "Rating": "136",
+        "Career Best": "181 V AUSTRALIA AT AHMEDABAD 2023"
+    },
+    {
+        "Position": 50,
+        "Player": "Jj Smit",
+        "Team": "Namibia",
+        "Rating": "136",
+        "Career Best": "178 V NEPAL AT NAMIBIA 2022"
+    },
+    {
+        "Position": 51,
+        "Player": "Dunith Wellalage",
+        "Team": "Sri Lanka",
+        "Rating": "135",
+        "Career Best": "152 V AUSTRALIA AT COLOMBO (RPS) 2025"
+    },
+    {
+        "Position": 52,
+        "Player": "Harmeet Singh",
+        "Team": "Usa",
+        "Rating": "134",
+        "Career Best": "139 V NEPAL AT DUBAI (GCA) 2025"
+    },
+    {
+        "Position": 53,
+        "Player": "Adam Zampa",
+        "Team": "Australia",
+        "Rating": "131",
+        "Career Best": "158 V ENGLAND AT TRENT BRIDGE 2024"
+    },
+    {
+        "Position": 54,
+        "Player": "Haris Rauf",
+        "Team": "Pakistan",
+        "Rating": "130",
+        "Career Best": "151 V AUSTRALIA AT PERTH STADIUM 2024"
+    },
+    {
+        "Position": 55,
+        "Player": "Harsh Thaker",
+        "Team": "Canada",
+        "Rating": "129",
+        "Career Best": "143 V OMAN AT KING CITY 2024"
+    },
+    {
+        "Position": 56,
+        "Player": "Fazalhaq Farooqi",
+        "Team": "Afghanistan",
+        "Rating": "128",
+        "Career Best": "144 V SOUTH AFRICA AT SHARJAH 2024"
+    },
+    {
+        "Position": 57,
+        "Player": "Safyaan Sharif",
+        "Team": "Scotland",
+        "Rating": "127",
+        "Career Best": "161 V NAMIBIA AT KIRTIPUR, NEPAL 2023"
+    },
+    {
+        "Position": 58,
+        "Player": "Sandeep Lamichhane",
+        "Team": "Nepal",
+        "Rating": "127",
+        "Career Best": "157 V IRELAND AT HARARE 2023"
+    },
+    {
+        "Position": 59,
+        "Player": "Graham Hume",
+        "Team": "Ireland",
+        "Rating": "127",
+        "Career Best": "135 V ZIMBABWE AT HARARE 2025"
+    },
+    {
+        "Position": 60,
+        "Player": "Aayan Khan",
+        "Team": "United Arab Emirates",
+        "Rating": "127",
+        "Career Best": "176 V CANADA AT DUBAI 2024"
+    },
+    {
+        "Position": 61,
+        "Player": "Jayden Seales",
+        "Team": "West Indies",
+        "Rating": "124",
+        "Career Best": "126 V NEW ZEALAND AT NAPIER 2025"
+    },
+    {
+        "Position": 62,
+        "Player": "Matthew Forde",
+        "Team": "West Indies",
+        "Rating": "123",
+        "Career Best": "123 V NEW ZEALAND AT HAMILTON 2025"
+    },
+    {
+        "Position": 63,
+        "Player": "Janith Liyanage",
+        "Team": "Sri Lanka",
+        "Rating": "122",
+        "Career Best": "122 V PAKISTAN AT RAWALPINDI 2025"
+    },
+    {
+        "Position": 64,
+        "Player": "Sam Curran",
+        "Team": "England",
+        "Rating": "120",
+        "Career Best": "166 V NEW ZEALAND AT LORD'S 2023"
+    },
+    {
+        "Position": 65,
+        "Player": "George Dockrell",
+        "Team": "Ireland",
+        "Rating": "119",
+        "Career Best": "182 V ZIMBABWE AT HOBART 2015"
+    },
+    {
+        "Position": 66,
+        "Player": "Mohammad Nawaz",
+        "Team": "Pakistan",
+        "Rating": "119",
+        "Career Best": "128 V SRI LANKA AT HYDERABAD 2023"
+    },
+    {
+        "Position": 67,
+        "Player": "Corbin Bosch",
+        "Team": "South Africa",
+        "Rating": "119",
+        "Career Best": "120 V INDIA AT RAIPUR 2025"
+    },
+    {
+        "Position": 68,
+        "Player": "Saurabh Netravalkar",
+        "Team": "Usa",
+        "Rating": "118",
+        "Career Best": "125 V NETHERLANDS AT HARARE 2023"
+    },
+    {
+        "Position": 69,
+        "Player": "Karan Kc",
+        "Team": "Nepal",
+        "Rating": "117",
+        "Career Best": "126 V NETHERLANDS AT SCOTLAND 2025"
+    },
+    {
+        "Position": 70,
+        "Player": "Asitha Fernando",
+        "Team": "Sri Lanka",
+        "Rating": "117",
+        "Career Best": "120 V PAKISTAN AT RAWALPINDI 2025"
+    },
+    {
+        "Position": 71,
+        "Player": "Ruben Trumpelmann",
+        "Team": "Namibia",
+        "Rating": "116",
+        "Career Best": "145 V NETHERLANDS AT KIRTIPUR, NEPAL 2024"
+    },
+    {
+        "Position": 72,
+        "Player": "Kagiso Rabada",
+        "Team": "South Africa",
+        "Rating": "114",
+        "Career Best": "227 V INDIA AT SOUTHAMPTON 2019"
+    },
+    {
+        "Position": 73,
+        "Player": "Matt Henry",
+        "Team": "New Zealand",
+        "Rating": "113",
+        "Career Best": "195 V AUSTRALIA AT SYDNEY 2016"
+    },
+    {
+        "Position": 74,
+        "Player": "Sompal Kami",
+        "Team": "Nepal",
+        "Rating": "113",
+        "Career Best": "143 V NETHERLANDS AT KIRTIPUR, NEPAL 2024"
+    },
+    {
+        "Position": 75,
+        "Player": "Kushal Malla",
+        "Team": "Nepal",
+        "Rating": "113",
+        "Career Best": "144 V NAMIBIA AT KIRTIPUR, NEPAL 2024"
+    },
+    {
+        "Position": 76,
+        "Player": "Dilshan Madushanka",
+        "Team": "Sri Lanka",
+        "Rating": "113",
+        "Career Best": "146 V BANGLADESH AT CHITTAGONG 2024"
+    },
+    {
+        "Position": 77,
+        "Player": "Mustafizur Rahman",
+        "Team": "Bangladesh",
+        "Rating": "111",
+        "Career Best": "217 V WEST INDIES AT SYLHET 2018"
+    },
+    {
+        "Position": 78,
+        "Player": "Romario Shepherd",
+        "Team": "West Indies",
+        "Rating": "111",
+        "Career Best": "118 V BANGLADESH AT ST KITTS 2024"
+    },
+    {
+        "Position": 79,
+        "Player": "Harry Tector",
+        "Team": "Ireland",
+        "Rating": "111",
+        "Career Best": "126 V OMAN AT BULAWAYO 2023"
+    },
+    {
+        "Position": 80,
+        "Player": "Cameron Green",
+        "Team": "Australia",
+        "Rating": "110",
+        "Career Best": "139 V INDIA AT RAJKOT 2023"
+    },
+    {
+        "Position": 81,
+        "Player": "Daryl Mitchell",
+        "Team": "New Zealand",
+        "Rating": "109",
+        "Career Best": "132 V INDIA AT MUMBAI 2023"
+    },
+    {
+        "Position": 82,
+        "Player": "Jan Nicol Loftie-Eaton",
+        "Team": "Namibia",
+        "Rating": "109",
+        "Career Best": "116 V CANADA AT KING CITY 2025"
+    },
+    {
+        "Position": 83,
+        "Player": "Lalit Rajbanshi",
+        "Team": "Nepal",
+        "Rating": "108",
+        "Career Best": "113 V USA AT DALLAS 2024"
+    },
+    {
+        "Position": 84,
+        "Player": "Jamie Overton",
+        "Team": "England",
+        "Rating": "108",
+        "Career Best": "108 V NEW ZEALAND AT WELLINGTON 2025"
+    },
+    {
+        "Position": 85,
+        "Player": "Mitchell Starc",
+        "Team": "Australia",
+        "Rating": "107",
+        "Career Best": "236 V NEW ZEALAND AT MELBOURNE 2015"
+    },
+    {
+        "Position": 86,
+        "Player": "Jacob Duffy",
+        "Team": "New Zealand",
+        "Rating": "107",
+        "Career Best": "107 V WEST INDIES AT HAMILTON 2025"
+    },
+    {
+        "Position": 87,
+        "Player": "Akeal Hosein",
+        "Team": "West Indies",
+        "Rating": "107",
+        "Career Best": "156 V SCOTLAND AT HARARE 2023"
+    },
+    {
+        "Position": 88,
+        "Player": "Mitchell Marsh",
+        "Team": "Australia",
+        "Rating": "106",
+        "Career Best": "313 V NEW ZEALAND AT CANBERRA 2016"
+    },
+    {
+        "Position": 89,
+        "Player": "Ali Naseer",
+        "Team": "United Arab Emirates",
+        "Rating": "106",
+        "Career Best": "128 V NETHERLANDS AT OMAN 2024"
+    },
+    {
+        "Position": 90,
+        "Player": "Pat Cummins",
+        "Team": "Australia",
+        "Rating": "104",
+        "Career Best": "182 V NEW ZEALAND AT LORD'S 2019"
+    },
+    {
+        "Position": 91,
+        "Player": "Basil Hameed",
+        "Team": "United Arab Emirates",
+        "Rating": "104",
+        "Career Best": "153 V NEPAL AT KIRTIPUR, NEPAL 2022"
+    },
+    {
+        "Position": 92,
+        "Player": "Josh Little",
+        "Team": "Ireland",
+        "Rating": "103",
+        "Career Best": "130 V ZIMBABWE AT HARARE 2023"
+    },
+    {
+        "Position": 93,
+        "Player": "Tanzim Hasan Sakib",
+        "Team": "Bangladesh",
+        "Rating": "103",
+        "Career Best": "116 V AFGHANISTAN AT ABU DHABI 2025"
+    },
+    {
+        "Position": 94,
+        "Player": "Brydon Carse",
+        "Team": "England",
+        "Rating": "100",
+        "Career Best": "100 V NEW ZEALAND AT WELLINGTON 2025"
+    },
+    {
+        "Position": 95,
+        "Player": "Shakeel Ahmed",
+        "Team": "Oman",
+        "Rating": "99",
+        "Career Best": "99 V USA AT LAUDERHILL 2025"
+    },
+    {
+        "Position": 96,
+        "Player": "Saad Bin Zafar",
+        "Team": "Canada",
+        "Rating": "97",
+        "Career Best": "97 V NAMIBIA AT KING CITY 2025"
+    },
+    {
+        "Position": 97,
+        "Player": "Nasum Ahmed",
+        "Team": "Bangladesh",
+        "Rating": "96",
+        "Career Best": "96 V WEST INDIES AT MIRPUR 2025"
+    },
+    {
+        "Position": 98,
+        "Player": "Abrar Ahmed",
+        "Team": "Pakistan",
+        "Rating": "96",
+        "Career Best": "98 V SRI LANKA AT RAWALPINDI 2025"
+    },
+    {
+        "Position": 99,
+        "Player": "Washington Sundar",
+        "Team": "India",
+        "Rating": "95",
+        "Career Best": "110 V NEW ZEALAND AT INDORE 2023"
+    },
+    {
+        "Position": 100,
+        "Player": "Nandre Burger",
+        "Team": "South Africa",
+        "Rating": "94",
+        "Career Best": "96 V INDIA AT RAIPUR 2025"
+    }
+]

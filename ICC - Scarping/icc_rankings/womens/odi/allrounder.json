@@ -1,0 +1,702 @@
+[
+    {
+        "Position": 1,
+        "Player": "Ashleigh Gardner",
+        "Team": "Aus",
+        "Rating": "498",
+        "Career Best": "507 V ENGLAND AT INDORE 2025"
+    },
+    {
+        "Position": 2,
+        "Player": "Marizanne Kapp",
+        "Team": "South Africa",
+        "Rating": "441",
+        "Career Best": "463 V ENGLAND AT GUWAHATI 2025"
+    },
+    {
+        "Position": 3,
+        "Player": "Hayley Matthews",
+        "Team": "West Indies",
+        "Rating": "420",
+        "Career Best": "448 V ENGLAND AT DERBY 2025"
+    },
+    {
+        "Position": 4,
+        "Player": "Deepti Sharma",
+        "Team": "India",
+        "Rating": "392",
+        "Career Best": "402 V NEW ZEALAND AT HAMILTON 2019"
+    },
+    {
+        "Position": 5,
+        "Player": "Annabel Sutherland",
+        "Team": "Australia",
+        "Rating": "388",
+        "Career Best": "394 V SOUTH AFRICA AT INDORE 2025"
+    },
+    {
+        "Position": 6,
+        "Player": "Amelia Kerr",
+        "Team": "New Zealand",
+        "Rating": "332",
+        "Career Best": "366 V ENGLAND AT HAMILTON 2024"
+    },
+    {
+        "Position": 7,
+        "Player": "Nat Sciver-Brunt",
+        "Team": "England",
+        "Rating": "280",
+        "Career Best": "421 V AUSTRALIA AT TAUNTON 2023"
+    },
+    {
+        "Position": 8,
+        "Player": "Sophie Devine",
+        "Team": "New Zealand",
+        "Rating": "279",
+        "Career Best": "306 V AUSTRALIA AT BRISBANE - AB 2020"
+    },
+    {
+        "Position": 9,
+        "Player": "Chamari Athapaththu",
+        "Team": "Sri Lanka",
+        "Rating": "269",
+        "Career Best": "298 V INDIA AT COLOMBO (RPS) 2025"
+    },
+    {
+        "Position": 10,
+        "Player": "Nadine De Klerk",
+        "Team": "South Africa",
+        "Rating": "262",
+        "Career Best": "267 V ENGLAND AT GUWAHATI 2025"
+    },
+    {
+        "Position": 11,
+        "Player": "Orla Prendergast",
+        "Team": "Ireland",
+        "Rating": "260",
+        "Career Best": "260 V ZIMBABWE AT BELFAST 2025"
+    },
+    {
+        "Position": 12,
+        "Player": "Alana King",
+        "Team": "Australia",
+        "Rating": "252",
+        "Career Best": "262 V SOUTH AFRICA AT INDORE 2025"
+    },
+    {
+        "Position": 13,
+        "Player": "Chloe Tryon",
+        "Team": "South Africa",
+        "Rating": "235",
+        "Career Best": "269 V BANGLADESH AT VISAKHAPATNAM 2025"
+    },
+    {
+        "Position": 14,
+        "Player": "Charlie Dean",
+        "Team": "England",
+        "Rating": "223",
+        "Career Best": "241 V NEW ZEALAND AT VISAKHAPATNAM 2025"
+    },
+    {
+        "Position": 15,
+        "Player": "Josephine Nkomo",
+        "Team": "Zimbabwe",
+        "Rating": "175",
+        "Career Best": "175 V UNITED ARAB EMIRATES AT BULAWAYO 2025"
+    },
+    {
+        "Position": 16,
+        "Player": "Kim Garth",
+        "Team": "Australia",
+        "Rating": "167",
+        "Career Best": "176 V NEW ZEALAND AT INDORE 2025"
+    },
+    {
+        "Position": 17,
+        "Player": "Sophie Ecclestone",
+        "Team": "England",
+        "Rating": "160",
+        "Career Best": "226 V SOUTH AFRICA AT CHRISTCHURCH 2022"
+    },
+    {
+        "Position": 18,
+        "Player": "Fatima Sana",
+        "Team": "Pakistan",
+        "Rating": "160",
+        "Career Best": "188 V BANGLADESH AT LAHORE 2025"
+    },
+    {
+        "Position": 19,
+        "Player": "Laura Delany",
+        "Team": "Ireland",
+        "Rating": "159",
+        "Career Best": "183 V ZIMBABWE AT HARARE 2024"
+    },
+    {
+        "Position": 20,
+        "Player": "Georgia Wareham",
+        "Team": "Australia",
+        "Rating": "151",
+        "Career Best": "213 V SOUTH AFRICA AT ADELAIDE 2024"
+    },
+    {
+        "Position": 21,
+        "Player": "Kavisha Dilhari",
+        "Team": "Sri Lanka",
+        "Rating": "147",
+        "Career Best": "188 V INDIA AT COLOMBO (RPS) 2025"
+    },
+    {
+        "Position": 22,
+        "Player": "Jess Kerr",
+        "Team": "New Zealand",
+        "Rating": "147",
+        "Career Best": "163 V SRI LANKA AT NELSON 2025"
+    },
+    {
+        "Position": 23,
+        "Player": "Ellyse Perry",
+        "Team": "Australia",
+        "Rating": "141",
+        "Career Best": "545 V WEST INDIES AT ANTIGUA 2019"
+    },
+    {
+        "Position": 24,
+        "Player": "Sneh Rana",
+        "Team": "India",
+        "Rating": "137",
+        "Career Best": "150 V ENGLAND AT INDORE 2025"
+    },
+    {
+        "Position": 25,
+        "Player": "Arlene Kelly",
+        "Team": "Ireland",
+        "Rating": "136",
+        "Career Best": "139 V ZIMBABWE AT BELFAST 2025"
+    },
+    {
+        "Position": 26,
+        "Player": "Lauren Bell",
+        "Team": "England",
+        "Rating": "136",
+        "Career Best": "136 V SOUTH AFRICA AT GUWAHATI 2025"
+    },
+    {
+        "Position": 27,
+        "Player": "Kate Cross",
+        "Team": "England",
+        "Rating": "134",
+        "Career Best": "201 V IRELAND AT BELFAST 2024"
+    },
+    {
+        "Position": 28,
+        "Player": "Chinelle Henry",
+        "Team": "West Indies",
+        "Rating": "132",
+        "Career Best": "174 V THAILAND AT LAHORE 2025"
+    },
+    {
+        "Position": 29,
+        "Player": "Nonkululeko Mlaba",
+        "Team": "South Africa",
+        "Rating": "130",
+        "Career Best": "135 V SRI LANKA AT COLOMBO (RPS) 2025"
+    },
+    {
+        "Position": 30,
+        "Player": "Kathryn Bryce",
+        "Team": "Scotland",
+        "Rating": "129",
+        "Career Best": "129 V IRELAND AT LAHORE 2025"
+    },
+    {
+        "Position": 31,
+        "Player": "Fahima Khatun",
+        "Team": "Bangladesh",
+        "Rating": "125",
+        "Career Best": "139 V SOUTH AFRICA AT VISAKHAPATNAM 2025"
+    },
+    {
+        "Position": 32,
+        "Player": "Lea Tahuhu",
+        "Team": "New Zealand",
+        "Rating": "124",
+        "Career Best": "158 V ENGLAND AT LEICESTER 2021"
+    },
+    {
+        "Position": 33,
+        "Player": "Rabeya Khan",
+        "Team": "Bangladesh",
+        "Rating": "121",
+        "Career Best": "148 V NEW ZEALAND AT GUWAHATI 2025"
+    },
+    {
+        "Position": 34,
+        "Player": "Aaliyah Alleyne",
+        "Team": "West Indies",
+        "Rating": "120",
+        "Career Best": "124 V SOUTH AFRICA AT BARBADOS 2025"
+    },
+    {
+        "Position": 35,
+        "Player": "Megan Schutt",
+        "Team": "Australia",
+        "Rating": "119",
+        "Career Best": "160 V WEST INDIES AT ANTIGUA 2019"
+    },
+    {
+        "Position": 36,
+        "Player": "Katherine Fraser",
+        "Team": "Scotland",
+        "Rating": "115",
+        "Career Best": "115 V IRELAND AT LAHORE 2025"
+    },
+    {
+        "Position": 37,
+        "Player": "Marufa Akter",
+        "Team": "Bangladesh",
+        "Rating": "115",
+        "Career Best": "132 V PAKISTAN AT COLOMBO (RPS) 2025"
+    },
+    {
+        "Position": 38,
+        "Player": "Suzie Bates",
+        "Team": "New Zealand",
+        "Rating": "110",
+        "Career Best": "376 V AUSTRALIA AT BAY OVAL 2016"
+    },
+    {
+        "Position": 39,
+        "Player": "Hannah Rowe",
+        "Team": "New Zealand",
+        "Rating": "109",
+        "Career Best": "134 V ENGLAND AT BRISTOL 2024"
+    },
+    {
+        "Position": 40,
+        "Player": "Sadia Iqbal",
+        "Team": "Pakistan",
+        "Rating": "107",
+        "Career Best": "113 V ENGLAND AT COLOMBO (RPS) 2025"
+    },
+    {
+        "Position": 41,
+        "Player": "Deandra Dottin",
+        "Team": "West Indies",
+        "Rating": "106",
+        "Career Best": "261 V PAKISTAN AT DUBAI 2019"
+    },
+    {
+        "Position": 42,
+        "Player": "Kranti Gaud",
+        "Team": "India",
+        "Rating": "106",
+        "Career Best": "106 V SOUTH AFRICA AT MUMBAI 2025"
+    },
+    {
+        "Position": 43,
+        "Player": "Sune Luus",
+        "Team": "South Africa",
+        "Rating": "105",
+        "Career Best": "264 V INDIA AT KIMBERLEY 2018"
+    },
+    {
+        "Position": 44,
+        "Player": "Pauke Siaka",
+        "Team": "Papua New Guinea",
+        "Rating": "103",
+        "Career Best": "103 V UNITED ARAB EMIRATES AT PAPUA NEW GUINEA 2025"
+    },
+    {
+        "Position": 45,
+        "Player": "Nashra Sundhu",
+        "Team": "Pakistan",
+        "Rating": "100",
+        "Career Best": "124 V BANGLADESH AT LAHORE 2019"
+    },
+    {
+        "Position": 46,
+        "Player": "Nahida Akter",
+        "Team": "Bangladesh",
+        "Rating": "99",
+        "Career Best": "112 V SOUTH AFRICA AT VISAKHAPATNAM 2025"
+    },
+    {
+        "Position": 47,
+        "Player": "Fran Jonas",
+        "Team": "New Zealand",
+        "Rating": "99",
+        "Career Best": "121 V INDIA AT AHMEDABAD 2024"
+    },
+    {
+        "Position": 48,
+        "Player": "Renuka Singh Thakur",
+        "Team": "India",
+        "Rating": "97",
+        "Career Best": "106 V WEST INDIES AT VADODARA 2024"
+    },
+    {
+        "Position": 49,
+        "Player": "Afy Fletcher",
+        "Team": "West Indies",
+        "Rating": "96",
+        "Career Best": "99 V SOUTH AFRICA AT BARBADOS 2025"
+    },
+    {
+        "Position": 50,
+        "Player": "Tahlia Mcgrath",
+        "Team": "Australia",
+        "Rating": "96",
+        "Career Best": "157 V INDIA AT MUMBAI 2023"
+    },
+    {
+        "Position": 51,
+        "Player": "Aditiba Chudasama",
+        "Team": "Usa",
+        "Rating": "92",
+        "Career Best": "93 V ZIMBABWE AT DALLAS 2025"
+    },
+    {
+        "Position": 52,
+        "Player": "Eden Carson",
+        "Team": "New Zealand",
+        "Rating": "91",
+        "Career Best": "91 V ENGLAND AT VISAKHAPATNAM 2025"
+    },
+    {
+        "Position": 53,
+        "Player": "Linsey Smith",
+        "Team": "England",
+        "Rating": "88",
+        "Career Best": "88 V SOUTH AFRICA AT GUWAHATI 2025"
+    },
+    {
+        "Position": 54,
+        "Player": "Darcey Carter",
+        "Team": "Scotland",
+        "Rating": "87",
+        "Career Best": "94 V WEST INDIES AT LAHORE 2025"
+    },
+    {
+        "Position": 55,
+        "Player": "Diana Baig",
+        "Team": "Pakistan",
+        "Rating": "86",
+        "Career Best": "103 V BANGLADESH AT DHAKA 2023"
+    },
+    {
+        "Position": 56,
+        "Player": "Inoka Ranaweera",
+        "Team": "Sri Lanka",
+        "Rating": "84",
+        "Career Best": "130 V WEST INDIES AT TRINIDAD 2017"
+    },
+    {
+        "Position": 57,
+        "Player": "Cara Murray",
+        "Team": "Ireland",
+        "Rating": "83",
+        "Career Best": "89 V ZIMBABWE AT HARARE 2024"
+    },
+    {
+        "Position": 58,
+        "Player": "Sree Charani",
+        "Team": "India",
+        "Rating": "83",
+        "Career Best": "83 V SOUTH AFRICA AT MUMBAI 2025"
+    },
+    {
+        "Position": 59,
+        "Player": "Kelis Ndhlovu",
+        "Team": "Zimbabwe",
+        "Rating": "81",
+        "Career Best": "102 V UNITED ARAB EMIRATES AT BULAWAYO 2025"
+    },
+    {
+        "Position": 60,
+        "Player": "Ayabonga Khaka",
+        "Team": "South Africa",
+        "Rating": "79",
+        "Career Best": "133 V ENGLAND AT WORCESTER 2018"
+    },
+    {
+        "Position": 61,
+        "Player": "Rameen Shamim",
+        "Team": "Pakistan",
+        "Rating": "79",
+        "Career Best": "79 V SRI LANKA AT COLOMBO (RPS) 2025"
+    },
+    {
+        "Position": 62,
+        "Player": "Karishma Ramharack",
+        "Team": "West Indies",
+        "Rating": "78",
+        "Career Best": "80 V SOUTH AFRICA AT BARBADOS 2025"
+    },
+    {
+        "Position": 63,
+        "Player": "Stafanie Taylor",
+        "Team": "West Indies",
+        "Rating": "77",
+        "Career Best": "607 V NEW ZEALAND AT KINGSTON 2013"
+    },
+    {
+        "Position": 64,
+        "Player": "Pratika Rawal",
+        "Team": "India",
+        "Rating": "77",
+        "Career Best": "85 V SRI LANKA AT COLOMBO (RPS) 2025"
+    },
+    {
+        "Position": 65,
+        "Player": "Alice Capsey",
+        "Team": "England",
+        "Rating": "75",
+        "Career Best": "75 V SOUTH AFRICA AT GUWAHATI 2025"
+    },
+    {
+        "Position": 66,
+        "Player": "Amanjot Kaur",
+        "Team": "India",
+        "Rating": "74",
+        "Career Best": "76 V AUSTRALIA AT MUMBAI 2025"
+    },
+    {
+        "Position": 67,
+        "Player": "Omaima Sohail",
+        "Team": "Pakistan",
+        "Rating": "73",
+        "Career Best": "104 V IRELAND AT LAHORE 2022"
+    },
+    {
+        "Position": 68,
+        "Player": "Harmanpreet Kaur",
+        "Team": "India",
+        "Rating": "72",
+        "Career Best": "176 V ENGLAND AT LORD'S 2017"
+    },
+    {
+        "Position": 69,
+        "Player": "Nattaya Boochatham",
+        "Team": "Thailand",
+        "Rating": "72",
+        "Career Best": "72 V WEST INDIES AT LAHORE 2025"
+    },
+    {
+        "Position": 70,
+        "Player": "Esha Oza",
+        "Team": "United Arab Emirates",
+        "Rating": "72",
+        "Career Best": "76 V PAPUA NEW GUINEA AT PAPUA NEW GUINEA 2025"
+    },
+    {
+        "Position": 71,
+        "Player": "Loreen Tshuma",
+        "Team": "Zimbabwe",
+        "Rating": "72",
+        "Career Best": "72 V UNITED ARAB EMIRATES AT BULAWAYO 2025"
+    },
+    {
+        "Position": 72,
+        "Player": "Georgina Dempsey",
+        "Team": "Ireland",
+        "Rating": "71",
+        "Career Best": "89 V SCOTLAND AT SPAIN 2023"
+    },
+    {
+        "Position": 73,
+        "Player": "Mst Ritu Moni",
+        "Team": "Bangladesh",
+        "Rating": "70",
+        "Career Best": "76 V SOUTH AFRICA AT VISAKHAPATNAM 2025"
+    },
+    {
+        "Position": 74,
+        "Player": "Lauren Filer",
+        "Team": "England",
+        "Rating": "69",
+        "Career Best": "81 V INDIA AT CHESTER-LE-ST 2025"
+    },
+    {
+        "Position": 75,
+        "Player": "Brooke Halliday",
+        "Team": "New Zealand",
+        "Rating": "66",
+        "Career Best": "77 V BANGLADESH AT GUWAHATI 2025"
+    },
+    {
+        "Position": 76,
+        "Player": "Jane Maguire",
+        "Team": "Ireland",
+        "Rating": "66",
+        "Career Best": "67 V ZIMBABWE AT BELFAST 2025"
+    },
+    {
+        "Position": 77,
+        "Player": "Priyanaz Chatterji",
+        "Team": "Scotland",
+        "Rating": "65",
+        "Career Best": "65 V IRELAND AT LAHORE 2025"
+    },
+    {
+        "Position": 78,
+        "Player": "Henao Thomas",
+        "Team": "Papua New Guinea",
+        "Rating": "65",
+        "Career Best": "66 V UNITED ARAB EMIRATES AT PAPUA NEW GUINEA 2025"
+    },
+    {
+        "Position": 79,
+        "Player": "Radha Yadav",
+        "Team": "India",
+        "Rating": "64",
+        "Career Best": "64 V SOUTH AFRICA AT MUMBAI 2025"
+    },
+    {
+        "Position": 80,
+        "Player": "Samaira Dharnidharka",
+        "Team": "United Arab Emirates",
+        "Rating": "64",
+        "Career Best": "64 V PAPUA NEW GUINEA AT PAPUA NEW GUINEA 2025"
+    },
+    {
+        "Position": 81,
+        "Player": "Shamilia Connell",
+        "Team": "West Indies",
+        "Rating": "63",
+        "Career Best": "99 V ENGLAND AT DUNEDIN 2022"
+    },
+    {
+        "Position": 82,
+        "Player": "Michelle Botha",
+        "Team": "United Arab Emirates",
+        "Rating": "63",
+        "Career Best": "65 V PAPUA NEW GUINEA AT PAPUA NEW GUINEA 2025"
+    },
+    {
+        "Position": 83,
+        "Player": "Sugandika Kumari",
+        "Team": "Sri Lanka",
+        "Rating": "61",
+        "Career Best": "66 V INDIA AT GUWAHATI 2025"
+    },
+    {
+        "Position": 84,
+        "Player": "Loryn Phiri",
+        "Team": "Zimbabwe",
+        "Rating": "61",
+        "Career Best": "61 V UNITED ARAB EMIRATES AT BULAWAYO 2025"
+    },
+    {
+        "Position": 85,
+        "Player": "Tara Norris",
+        "Team": "Usa",
+        "Rating": "61",
+        "Career Best": "64 V ZIMBABWE AT HARARE 2024"
+    },
+    {
+        "Position": 86,
+        "Player": "Sophie Molineux",
+        "Team": "Australia",
+        "Rating": "60",
+        "Career Best": "64 V ENGLAND AT INDORE 2025"
+    },
+    {
+        "Position": 87,
+        "Player": "Freya Sargent",
+        "Team": "Ireland",
+        "Rating": "60",
+        "Career Best": "71 V INDIA AT RAJKOT 2025"
+    },
+    {
+        "Position": 88,
+        "Player": "Aliya Riaz",
+        "Team": "Pakistan",
+        "Rating": "59",
+        "Career Best": "96 V SOUTH AFRICA AT DURBAN 2021"
+    },
+    {
+        "Position": 89,
+        "Player": "Nomvelo Sibanda",
+        "Team": "Zimbabwe",
+        "Rating": "59",
+        "Career Best": "62 V UNITED ARAB EMIRATES AT BULAWAYO 2025"
+    },
+    {
+        "Position": 90,
+        "Player": "Audrey Mazvishaya",
+        "Team": "Zimbabwe",
+        "Rating": "57",
+        "Career Best": "58 V UNITED ARAB EMIRATES AT BULAWAYO 2025"
+    },
+    {
+        "Position": 91,
+        "Player": "Abtaha Maqsood",
+        "Team": "Scotland",
+        "Rating": "56",
+        "Career Best": "56 V IRELAND AT LAHORE 2025"
+    },
+    {
+        "Position": 92,
+        "Player": "Chanida Sutthiruang",
+        "Team": "Thailand",
+        "Rating": "55",
+        "Career Best": "60 V IRELAND AT LAHORE 2025"
+    },
+    {
+        "Position": 93,
+        "Player": "Beloved Biza",
+        "Team": "Zimbabwe",
+        "Rating": "55",
+        "Career Best": "63 V IRELAND AT BELFAST 2025"
+    },
+    {
+        "Position": 94,
+        "Player": "Adel Zimunu",
+        "Team": "Zimbabwe",
+        "Rating": "53",
+        "Career Best": "53 V UNITED ARAB EMIRATES AT BULAWAYO 2025"
+    },
+    {
+        "Position": 95,
+        "Player": "Thipatcha Putthawong",
+        "Team": "Thailand",
+        "Rating": "52",
+        "Career Best": "57 V PAKISTAN AT LAHORE 2025"
+    },
+    {
+        "Position": 96,
+        "Player": "Ava Canning",
+        "Team": "Ireland",
+        "Rating": "52",
+        "Career Best": "52 V ZIMBABWE AT BELFAST 2025"
+    },
+    {
+        "Position": 97,
+        "Player": "Rachel Slater",
+        "Team": "Scotland",
+        "Rating": "52",
+        "Career Best": "52 V IRELAND AT LAHORE 2025"
+    },
+    {
+        "Position": 98,
+        "Player": "Heather Knight",
+        "Team": "England",
+        "Rating": "51",
+        "Career Best": "266 V SRI LANKA AT COLOMBO (RPS) 2016"
+    },
+    {
+        "Position": 99,
+        "Player": "Annerie Dercksen",
+        "Team": "South Africa",
+        "Rating": "50",
+        "Career Best": "105 V SRI LANKA AT COLOMBO (RPS) 2025"
+    },
+    {
+        "Position": 100,
+        "Player": "Sultana Khatun",
+        "Team": "Bangladesh",
+        "Rating": "49",
+        "Career Best": "67 V IRELAND AT DHAKA 2024"
+    }
+]

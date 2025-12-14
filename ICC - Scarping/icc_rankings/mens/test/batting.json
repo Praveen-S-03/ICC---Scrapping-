@@ -1,0 +1,142 @@
+[
+    {
+        "Position": 1,
+        "Player": "Joe Root",
+        "Team": "Eng",
+        "Rating": "898",
+        "Career Best": "932 V PAKISTAN AT MULTAN 2024"
+    },
+    {
+        "Position": 2,
+        "Player": "Kane Williamson",
+        "Team": "New Zealand",
+        "Rating": "827",
+        "Career Best": "919 V PAKISTAN AT CHRISTCHURCH 2021"
+    },
+    {
+        "Position": 3,
+        "Player": "Steve Smith",
+        "Team": "Australia",
+        "Rating": "823",
+        "Career Best": "947 V SOUTH AFRICA AT DURBAN 2018"
+    },
+    {
+        "Position": 4,
+        "Player": "Harry Brook",
+        "Team": "England",
+        "Rating": "820",
+        "Career Best": "898 V NEW ZEALAND AT WELLINGTON 2024"
+    },
+    {
+        "Position": 5,
+        "Player": "Kamindu Mendis",
+        "Team": "Sri Lanka",
+        "Rating": "781",
+        "Career Best": "784 V BANGLADESH AT GALLE 2025"
+    },
+    {
+        "Position": 6,
+        "Player": "Temba Bavuma",
+        "Team": "South Africa",
+        "Rating": "775",
+        "Career Best": "806 V AUSTRALIA AT LORD'S 2025"
+    },
+    {
+        "Position": 7,
+        "Player": "Travis Head",
+        "Team": "Australia",
+        "Rating": "774",
+        "Career Best": "884 V INDIA AT THE OVAL 2023"
+    },
+    {
+        "Position": 8,
+        "Player": "Yashasvi Jaiswal",
+        "Team": "India",
+        "Rating": "750",
+        "Career Best": "858 V ENGLAND AT EDGBASTON 2025"
+    },
+    {
+        "Position": 9,
+        "Player": "Daryl Mitchell",
+        "Team": "New Zealand",
+        "Rating": "741",
+        "Career Best": "804 V BANGLADESH AT SYLHET 2023"
+    },
+    {
+        "Position": 10,
+        "Player": "Saud Shakeel",
+        "Team": "Pakistan",
+        "Rating": "734",
+        "Career Best": "764 V SOUTH AFRICA AT CENTURION 2024"
+    },
+    {
+        "Position": 11,
+        "Player": "Shubman Gill",
+        "Team": "India",
+        "Rating": "730",
+        "Career Best": "807 V ENGLAND AT EDGBASTON 2025"
+    },
+    {
+        "Position": 12,
+        "Player": "Dinesh Chandimal",
+        "Team": "Sri Lanka",
+        "Rating": "717",
+        "Career Best": "755 V WEST INDIES AT ST LUCIA 2018"
+    },
+    {
+        "Position": 13,
+        "Player": "Rishabh Pant",
+        "Team": "India",
+        "Rating": "704",
+        "Career Best": "801 V ENGLAND AT HEADINGLEY 2025"
+    },
+    {
+        "Position": 14,
+        "Player": "Ben Duckett",
+        "Team": "England",
+        "Rating": "701",
+        "Career Best": "787 V INDIA AT HEADINGLEY 2025"
+    },
+    {
+        "Position": 15,
+        "Player": "Rachin Ravindra",
+        "Team": "New Zealand",
+        "Rating": "695",
+        "Career Best": "711 V INDIA AT PUNE 2024"
+    },
+    {
+        "Position": 16,
+        "Player": "Pathum Nissanka",
+        "Team": "Sri Lanka",
+        "Rating": "685",
+        "Career Best": "685 V BANGLADESH AT COLOMBO (SSC) 2025"
+    },
+    {
+        "Position": 17,
+        "Player": "Alex Carey",
+        "Team": "Australia",
+        "Rating": "685",
+        "Career Best": "694 V WEST INDIES AT GRENADA 2025"
+    },
+    {
+        "Position": 18,
+        "Player": "Aiden Markram",
+        "Team": "South Africa",
+        "Rating": "681",
+        "Career Best": "759 V AUSTRALIA AT JOHANNESBURG 2018"
+    },
+    {
+        "Position": 19,
+        "Player": "Sean Williams",
+        "Team": "Zimbabwe",
+        "Rating": "668",
+        "Career Best": "725 V SOUTH AFRICA AT BULAWAYO 2025"
+    },
+    {
+        "Position": 20,
+        "Player": "Mohammad Rizwan",
+        "Team": "Pakistan",
+        "Rating": "664",
+        "Career Best": "728 V BANGLADESH AT RAWALPINDI 2024"
+    }
+]
